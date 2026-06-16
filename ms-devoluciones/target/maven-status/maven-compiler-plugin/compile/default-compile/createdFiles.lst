@@ -1,0 +1,5 @@
+com\biblioteca\ms_devoluciones\service\DevolucionService.class
+com\biblioteca\ms_devoluciones\controller\DevolucionController.class
+com\biblioteca\ms_devoluciones\repository\DevolucionRepository.class
+com\biblioteca\ms_devoluciones\MsDevolucionesApplication.class
+com\biblioteca\ms_devoluciones\model\Devolucion.class
