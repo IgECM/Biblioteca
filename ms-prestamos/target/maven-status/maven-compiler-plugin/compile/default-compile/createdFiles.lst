@@ -1,0 +1,5 @@
+com\biblioteca\ms_prestamos\controller\PrestamoController.class
+com\biblioteca\ms_prestamos\MsPrestamosApplication.class
+com\biblioteca\ms_prestamos\service\PrestamoService.class
+com\biblioteca\ms_prestamos\model\Prestamo.class
+com\biblioteca\ms_prestamos\repository\PrestamoRepository.class
