@@ -1,0 +1,5 @@
+com\biblioteca\ms_notificaciones\service\NotificacionService.class
+com\biblioteca\ms_notificaciones\repository\NotificacionRepository.class
+com\biblioteca\ms_notificaciones\MsNotificacionesApplication.class
+com\biblioteca\ms_notificaciones\model\Notificacion.class
+com\biblioteca\ms_notificaciones\controller\NotificacionController.class
