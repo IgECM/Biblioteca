@@ -1,0 +1,5 @@
+com\biblioteca\ms_libros\MsLibrosApplication.class
+com\biblioteca\ms_libros\repository\LibroRepository.class
+com\biblioteca\ms_libros\controller\LibroController.class
+com\biblioteca\ms_libros\model\Libro.class
+com\biblioteca\ms_libros\service\LibroService.class
